@@ -1,4 +1,4 @@
-# web_example
+# flutter_web_example
 
 A new Flutter project.
 
